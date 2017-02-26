@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shop/IapSample.cs">
+    <Files>
+      <File FileName="Assets/Tree_Auto_Destroy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Go_Away_Script.cs" Line="1" Column="1" />
+      <File FileName="Assets/Shop/VerifyReceipt.cs" Line="1" Column="1" />
+      <File FileName="Assets/Dino_Animation.cs" Line="1" Column="1" />
+      <File FileName="Assets/Game_System.cs" Line="58" Column="22" />
+      <File FileName="Assets/Terrain_Movement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Shop/IapSample.cs" Line="252" Column="73" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Assets/Shop/Response.cs" Line="1" Column="1" />
+      <File FileName="Assets/Bird_Animation.cs" Line="1" Column="1" />
+      <File FileName="Assets/Input_System.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
